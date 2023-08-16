@@ -1,0 +1,16 @@
+name: Selenium
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python
+  - geckodriver
+  - lxml
+  - pip: 
+    - selenium
+    - ConfigArgParse
+
+
+
+
